@@ -2,7 +2,8 @@
 [JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
 [CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-
+[PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
+[PROJECT__URL]: https://github.com/Kio-Suzuki/prime-flix
 
 <h1 align="center" style="font-weight: bold;">Prime Flix 🎬</h1>
 
@@ -53,8 +54,8 @@ git clone https://github.com/Kio-Suzuki/prime-flix.git
 How to start your project
 
 ```bash
-cd project-name
-npm some-command-to-run
+npm install
+npm start
 ```
 
 <h2 id="routes">📍 Application Routes</h2>
@@ -64,37 +65,19 @@ Here you can list the main routes of your API, and what are their expected reque
 | route               | description                                          
 |----------------------|-----------------------------------------------------
 | <kbd>/</kbd>     | page that list all movies in theaters
-| <kbd>/movie/</kbd>     | page to login
-| <kbd>/favoritesd</kbd>     | page that contains all user shopping and spences info
+| <kbd>/movie/</kbd>     | page that contains all movie informations
+| <kbd>/favorites</kbd>     | page that contains all user favorites movies
 | <kbd>/*</kbd>     | 404 - Page not found
 
-<h2 id="colab">🤝 Collaborators</h2>
-
-Special thank you for all people that contributed for this project.
+<h2 id="colab">🤝 Author</h2>
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+        <img src="https://avatars.githubusercontent.com/u/116661015?v=4" width="100px;" alt="Akio Suzuki Profile Picture"/><br>
         <sub>
-          <b>Fernanda Kipper</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Elon Musk Picture"/><br>
-        <sub>
-          <b>Elon Musk</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
+          <b>Akio Suzuki</b>
         </sub>
       </a>
     </td>
