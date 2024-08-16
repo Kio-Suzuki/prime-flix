@@ -1,70 +1,117 @@
-# Getting Started with Create React App
+[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
+[CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align="center" style="font-weight: bold;">Prime Flix 🎬</h1>
 
-In the project directory, you can run:
+![react][REACT__BADGE]
+![javascript][JavaScript]
+![css][CSS3]
 
-### `npm start`
+<p align="center">
+ <a href="#about">About</a> • 
+ <a href="#started">Getting Started</a> • 
+  <a href="#started">App Routes</a> • 
+  <a href="#colab">Collaborators</a> •
+ <a href="#contribute">Contribute</a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p align="center">
+    <img src="../.github/example.png" alt="Image Example" width="400px">
+</p>
 
-### `npm test`
+<h2 id="started">📌 About</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O Prime Flix permite ao usuário verificar os filmes em cartazes e adiciona-los a sua lista.
 
-### `npm run build`
+[![project][PROJECT__BADGE]][PROJECT__URL]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2 id="started">🚀 Getting started</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Here you describe how to run your project locally
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h3>Prerequisites</h3>
 
-### `npm run eject`
+Here you list all prerequisites necessary for running your project. For example:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [NodeJS](https://github.com/)
+- [Git 2](https://github.com)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h3>Cloning</h3>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+How to clone your project
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+git clone https://github.com/Kio-Suzuki/prime-flix.git
+```
 
-## Learn More
+<h3>Starting</h3>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+How to start your project
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+cd project-name
+npm some-command-to-run
+```
 
-### Code Splitting
+<h2 id="routes">📍 Application Routes</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Here you can list the main routes of your API, and what are their expected request bodies.
+​
+| route               | description                                          
+|----------------------|-----------------------------------------------------
+| <kbd>/</kbd>     | page that list all movies in theaters
+| <kbd>/movie/</kbd>     | page to login
+| <kbd>/favoritesd</kbd>     | page that contains all user shopping and spences info
+| <kbd>/*</kbd>     | 404 - Page not found
 
-### Analyzing the Bundle Size
+<h2 id="colab">🤝 Collaborators</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Special thank you for all people that contributed for this project.
 
-### Making a Progressive Web App
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+        <sub>
+          <b>Fernanda Kipper</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Elon Musk Picture"/><br>
+        <sub>
+          <b>Elon Musk</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <b>Steve Jobs</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<h2 id="contribute">📫 Contribute</h2>
 
-### Advanced Configuration
+Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
+2. `git checkout -b feature/NAME`
+3. Follow commit patterns
+4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
 
-### Deployment
+<h3>Documentations that might help</h3>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
