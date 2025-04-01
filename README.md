@@ -14,14 +14,17 @@
 <p align="center">
  <a href="#about">About</a> • 
  <a href="#started">Getting Started</a> • 
-  <a href="#started">App Routes</a> • 
-  <a href="#colab">Author</a> •
+ <a href="#started">App Routes</a> • 
+ <a href="#colab">Author</a> •
  <a href="#contribute">Contribute</a>
 </p>
 
 
 <p align="center">
-    <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/home1.png?raw=true" alt="Image Example" width="500px">
+  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/home1.png?raw=true" alt="Image Example" width="500px">
+  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/home2.png?raw=true" alt="Image Example" width="500px">
+  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/movieinfo.png?raw=true" alt="Image Example" width="500px">
+  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/favorites.png?raw=true" alt="Image Example" width="500px">
 </p>
 
 <h2 id="started">📌 About</h2>
