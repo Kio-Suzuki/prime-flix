@@ -14,7 +14,7 @@
 <p align="center">
  <a href="#about">About</a> • 
  <a href="#started">Getting Started</a> • 
- <a href="#routes">App Routes</a> • 
+ <a href="#routes">Application Pages</a> • 
  <a href="#colab">Author</a> •
  <a href="#contribute">Contribute</a>
 </p>
@@ -29,7 +29,7 @@
 
 <h2 id="about">📌 About</h2>
 
-O Prime Flix permite ao usuário verificar os filmes em cartazes e adiciona-los a sua lista.
+O Prime Flix permite ao usuário verificar os filmes em cartaz e adicioná-los à sua lista.
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
@@ -59,14 +59,14 @@ npm install
 npm start
 ```
 
-<h2 id="routes">📍 Application Routes</h2>
+<h2 id="routes">📍 Application Pages</h2>
 
 Here you can list the main routes of your API, and what are their expected request bodies.
 ​
 | route               | description                                          
 |----------------------|-----------------------------------------------------
 | <kbd>/</kbd>     | page that list all movies in theaters
-| <kbd>/movie/</kbd>     | page that contains all movie informations
+| <kbd>/movie/</kbd>     | page that contains detailed movie information
 | <kbd>/favorites</kbd>     | page that contains all user favorites movies
 | <kbd>/*</kbd>     | 404 - Page not found
 
@@ -87,9 +87,7 @@ Here you can list the main routes of your API, and what are their expected reque
 
 <h2 id="contribute">📫 Contribute</h2>
 
-Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
-
-1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
+1. `git clone https://github.com/Kio-Suzuki/prime-flix.git`
 2. `git checkout -b feature/NAME`
 3. Follow commit patterns
 4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
