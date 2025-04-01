@@ -18,8 +18,13 @@ header {
 .favorites {
     text-decoration: none;
     cursor: pointer;
-    background-color: #FFF;
+    background-color: #e9e9e9;
     padding: 5px 14px;
     color: black;
     border-radius: 4px;
+}
+
+.favorites:hover {
+    background-color: #116feb;
+    color: white;
 }

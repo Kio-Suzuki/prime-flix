@@ -14,7 +14,7 @@ function Filme() {
     async function loadingMovies() {
       await api.get(`/movie/${id}`, {
         params: {
-          api_key: 'dfa4fc8f554de20cd7318a5f3ae7a20c',
+          api_key: process.env.REACT_APP_API_KEY,
           language: 'pt-BR', 
         }
       })
@@ -65,7 +65,7 @@ function Filme() {
       <img className={style.title} src={`https://image.tmdb.org/t/p/original/${movie.backdrop_path}`} alt={movie.title} />
       <h3>Sinopse</h3>
       <span>{movie.overview}</span>
-      <strong>Avaliação: {movie.vote_average} / 10</strong>
+      <strong>Avaliação: {movie.vote_average.toFixed(1)} / 10</strong>
       
       <div className={style.areaButtons}>
         <button onClick={saveMovie}>Save</button>
