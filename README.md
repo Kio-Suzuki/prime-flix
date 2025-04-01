@@ -27,7 +27,7 @@
   <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/favorites.png?raw=true" alt="Image Example" width="500px">
 </p>
 
-<h2 id="started">📌 About</h2>
+<h2 id="about">📌 About</h2>
 
 O Prime Flix permite ao usuário verificar os filmes em cartazes e adiciona-los a sua lista.
 
