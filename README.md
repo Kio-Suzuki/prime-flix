@@ -21,7 +21,7 @@
 
 
 <p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/home1.png?raw=true" alt="Image Example" width="500px">
 </p>
 
 <h2 id="started">📌 About</h2>
