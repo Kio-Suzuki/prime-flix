@@ -43,6 +43,17 @@ function Home() {
           autoplay={true}
           grabCursor={true}
           pagination={{ clickable: true }}
+          breakpoints={{
+            0: {
+              slidesPerView: 1,
+            },
+            640: {
+              slidesPerView: 2,
+            },
+            1024: {
+              slidesPerView: 4,
+            },
+          }}
         >
           {movies.map((movie) => (
             <SwiperSlide key={movie.id}>
