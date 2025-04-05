@@ -31,7 +31,7 @@
 
 <h2 id="about">📌 About</h2>
 
-O Prime Flix permite ao usuário verificar os filmes em cartaz e adicioná-los à sua lista.
+A simple React app to browse, save, and view details of popular movies using The Movie DB API.
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
