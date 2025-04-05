@@ -3,7 +3,7 @@
 [REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
 [CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
-[PROJECT__URL]: https://github.com/Kio-Suzuki/prime-flix
+[PROJECT__URL]: https://prime-flix-eight-lemon.vercel.app/
 
 <h1 align="center" style="font-weight: bold;">Prime Flix 🎬</h1>
 
