@@ -15,7 +15,7 @@
 }
 
 .myMovies ul {
-    width: 720px;
+    width: 35%;
 }
 
 .myMovies ul li {
@@ -36,4 +36,10 @@
     text-decoration: none;
     color: #116feb;
     margin-right: 14px;
+}
+
+@media (max-width: 768px) {
+    .myMovies ul {
+        width: 65%;
+    }
 }
