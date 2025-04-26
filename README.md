@@ -3,7 +3,7 @@
 [REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
 [CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
-[PROJECT__URL]: https://github.com/Kio-Suzuki/prime-flix
+[PROJECT__URL]: https://prime-flix-eight-lemon.vercel.app/
 
 <h1 align="center" style="font-weight: bold;">Prime Flix 🎬</h1>
 
@@ -21,15 +21,17 @@
 
 
 <p align="center">
-  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/home1.png?raw=true" alt="Image Example" width="500px">
-  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/home2.png?raw=true" alt="Image Example" width="500px">
-  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/movieinfo.png?raw=true" alt="Image Example" width="500px">
-  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/favorites.png?raw=true" alt="Image Example" width="500px">
+  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/home1.png?raw=true" alt="Home Page 1" width="500px">
+  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/home2.png?raw=true" alt="Home Page 2" width="500px">
+  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/movieinfo.png?raw=true" alt="Movie Info" width="500px">
+  <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/favorites.png?raw=true" alt="Favorite movies list" width="500px"></br>
+ <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/iPhone-13-PRO-prime-flix-eight-lemon.vercel.app-home.png?raw=true" alt="Home page mobile" width="300px">
+ <img src="https://github.com/Kio-Suzuki/prime-flix/blob/main/public/iPhone-13-PRO-prime-flix-eight-lemon.vercel.app-movie.png?raw=true" alt="Movie info mobile" width="300px">
 </p>
 
 <h2 id="about">📌 About</h2>
 
-O Prime Flix permite ao usuário verificar os filmes em cartaz e adicioná-los à sua lista.
+A simple React app to browse, save, and view details of popular movies using The Movie DB API.
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
